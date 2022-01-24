@@ -1,1 +1,16 @@
-#Use of this page is optional. If you use code here, make sure either import page1 or from page1 import * appear on your main.py page.
+word1 = input("Enter an adjective: ")
+word2 = input("Enter another adjective: ")
+word3 = input("Enter a type of bird: ")
+word4 = input("Enter a room in a house: ")
+word5 = input("Enter a verb (past tense): ")
+word6 = input("Enter a verb: ")
+word7 = input("Enter a relative's name: ")
+word8 = input("Enter a noun: ")
+word9 = input("Enter a liquid: ")
+word10 = input("Enter a verb ending in -ing: ")
+word11 = input("Enter a part of the body (plural): ")
+word12 = input("Enter a plural noun: ")
+word13 = input("Enter a verb ending in -ing: ")
+word14 = input ("Enter a noun: ")
+
+print ("It was a",word1,", cold November day. I woke up to the",word2,"smell of",word3,"roasting in the",word4,"downstairs. I",word5,"down the stairs to see if I could help",word6,"the dinner. My mom said,'see if",word7,"' needs a fresh",word8,". So I carried a tray of glasses full of",word9, "into the",word10,"room. When I got there, I couldn't believe my",word11,"! There were",word12 , word13,"on the",word14,"!")

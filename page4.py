@@ -1,1 +1,16 @@
-#Use of this page is optional. If you use code here, make sure either import page4 or from page4 import * appear on your main.py page.
+word1 = input("Enter a noun: ")
+word2 = input("Enter a plural noun: ")
+word3 = input("Enter an adjective: ")
+word4 = input("Enter a verb: ")
+word5 = input("Enter a plural noun: ")
+word6 = input("Enter a proper noun: ")
+word7 = input("Enter a noun: ")
+word8 = input("Enter a plural noun: ")
+word9 = input("Enter a noun: ")
+word10 = input("Enter an adjective: ")
+word11 = input("Enter a noun: ")
+word12 = input("Enter a plural noun: ")
+word13 = input("Enter an adjective: ")
+word14 = input("Enter a noun: ")
+
+print("First I wake up to the sound of my alarm" ,word1,".Then I get dressed in the" ,word2, "I layed out the night before. After,I eat my" ,word3,"breakfast. Then I" ,word4, "my" ,word5, ".After I walk to" ,word6 ,word7, "with my" ,word8,".When I get to" ,word9, "I start with spelling. Then I go to gym. In gym we do lots of" ,word10,"things. I like to play games like pop up tag or swim fishy swim. After is math. We have fractions and" ,word11, "math. Then lunch and recess. I play with my" ,word12,".Then it goes to writing. After is usually science.Then it is time to leave. I am" ,word13, "but can't wait for another" ,word14, "central school day!")

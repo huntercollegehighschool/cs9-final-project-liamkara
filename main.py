@@ -1,11 +1,16 @@
 """
-Name(s):
-Name of Project:
+Max Piatetsky and Liam Karamanoglou:
+Python Mad Libs:
 """
 
-#Write the main part of your program here. Use of the other pages is optional.
-
-#import page1  # uncomment if you're using page1
-#import page2  # uncomment if you're using page2
-#import page3  # uncomment if you're using page3
-#import page4  # uncomment if you're using page4
+import random
+list_r = [1, 2, 3, 4]
+random_num = random.choice(list_r)
+if random_num == 1:
+ import page1.py
+elif random_num == 2:
+ import page2.py
+elif random_num == 3:
+   import page3.py
+elif random_num == 4:
+    import page4.py

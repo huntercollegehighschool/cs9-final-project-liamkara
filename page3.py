@@ -1,1 +1,12 @@
-#Use of this page is optional. If you use code here, make sure either import page3 or from page3 import * appear on your main.py page.
+word1 = input("Enter a plural noun: " )
+word2 = input("Enter an adjective: ")
+word3 = input("Enter a noun: ")
+word4 = input("Enter an animal: ")
+word5 = input("Enter a verb: ")
+word6 = input("Enter a noun: ")
+word7 = input("Enter a verb: ")
+word8 = input("Enter a verb: ")
+word9 = input("Enter a noun: ")
+word10 = input("Enter a noun: ")
+
+print ("When Amazon launched in 1995 as a website that only sold" ,word1, ", founder Jeff Bezos had a vision for the company's",word2,"growth and ecommerce domination. He knew from the very beginning that he wanted Amazon to be a" ,word3,"store.In the early days of Amazon, a",word4,"would",word5,"the",word6,"every time someone made a purchase,and everyone would gather around to see if they knew the customer. It only took a few weeks before the",word4,"would" ,word5, "so frequently that they had to",word7,"it. In the first month of its launch, Amazon had already sold",word1,"to people in all 50 states and in 45 different countries. In the early days of Amazon, the servers that the company used required so much energy that Bezos and his wife couldn't",word8,"a",word9,"or a",word10,"in the house without blowing a fuse.")

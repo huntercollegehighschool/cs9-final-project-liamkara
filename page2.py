@@ -1,1 +1,14 @@
-#Use of this page is optional. If you use code here, make sure either import page2 or from page2 import * appear on your main.py page.
+word1 = input("Enter an adjective: ")
+word2 = input("Enter a verb: ")
+word3 = input("Enter an adjective: ")
+word4 = input("Enter a noun: ")
+word5 = input("Enter a verb: ")
+word6 = input("Enter an adjective: ")
+word7 = input("Enter a noun: ")
+word8 = input("Enter an adjective: ")
+word9 = input("Enter another adjective: ")
+word10 = input("Enter another adjective: ")
+word11 = input("Enter a noun: ")
+word12 = input("Enter a noun: ")
+
+print ("Our school cafeteria has really",word1,"food. Just thinking about it makes my stomach",word2,". The spaghetti is",word3,"and tastes like",word4,". One day, I swear one of my meatballs started to",word5,"! The turkey tacos are totally",word6,"and look kind of like old",word7,". My friend Keef actually likes the meatloaf, even though it's",word8,"and",word9,". I call it",word10,"meatloaf and think it's really made out of" ,word11,". My dad said he'd make my lunches, but the first day, he made me a sandwich out of",word12,"and battery acid! I think I'd rather take my chances with the cafeteria!")
